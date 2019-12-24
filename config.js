@@ -1,6 +1,6 @@
 /**
  * main config file
- * 
+ *
  * @author ViliusL
  */
 
