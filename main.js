@@ -1,4 +1,4 @@
-console.log('Welcome to The Amazing World of Dwarfs!');
+console.log('miniPaint, the offline online image editor!');
 
 const electron = require("electron");
 const app = electron.app;
@@ -8,7 +8,7 @@ const url = require("url");
 
 let win;
  function createWindow() {
-   win = new BrowserWindow({width: 1000, minWidth: 1000, height: 615, icon: path.join(__dirname + '/icon.png')});
+   win = new BrowserWindow({width: 1000, height: 620, icon: path.join(__dirname + '/img/logo.png')});
    win.loadURL(url.format({
      pathname: path.join(__dirname, 'index.html'),
      protocol: 'file',
