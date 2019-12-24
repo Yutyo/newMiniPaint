@@ -1,7 +1,7 @@
 ##miniPaint
-
+![editor](img/preview.png)
 Online graphics editing tool use HTML5 technologies like Canvas, Offline support,
-Drag and Drop. Key features: layers, transparency, filters, no-flash, open source. 
+Drag and Drop. Key features: layers, transparency, filters, no-flash, open source.
 
 **Demo**: http://viliusle.github.io/miniPaint/
 
